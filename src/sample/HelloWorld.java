@@ -9,7 +9,7 @@ public class HelloWorld {
 	{
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		
+		driver.get("");
 
 	}
 
