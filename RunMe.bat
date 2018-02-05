@@ -1,5 +1,1 @@
-javac HelloWorld.java
-
-java HelloWorld
-
-pause
+java -cp bin;jarfiles/* sample.HelloWorld testng.xml
